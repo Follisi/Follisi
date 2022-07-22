@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Follisi
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Backend
+- 📫 How to reach me : alexander.follisi@gmail.com
